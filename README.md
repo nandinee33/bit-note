@@ -17,16 +17,16 @@
 #
 #
 ## Signup Page
-![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629492692/portfolio/bit-notes/images/registerPage_dtmjvs.png)
+![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629570599/portfolio/bit-notes/image/register_page_byrluy.jpg)
 #
 ## Login Page
-![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1619480811/e-Diary/Login_Page_hqrpp4.jpg)
+![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629570599/portfolio/bit-notes/image/login_page_l5c0if.jpg)
 #
 ## Creating Notes
-![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1619483764/e-Diary/Creating_Notes_anokdx.jpg)
+![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629570599/portfolio/bit-notes/image/create_page_nklmwb.jpg)
 #
 ## Home Page
-![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1619482770/e-Diary/Home_Page_vu2ur9.jpg)
+![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629570599/portfolio/bit-notes/image/home_page_qa39y4.jpg)
 # 
 ## Editing Notes
-![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1619484701/e-Diary/Editing_Notes_dpmg1p.jpg)
+![alt](https://res.cloudinary.com/dqa3nvl6l/image/upload/v1629570599/portfolio/bit-notes/image/edit_page_lcoety.jpg)
